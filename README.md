@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Akrooz
-- 👀 I’m interested in  l'informatique je suis nouveau dans le millieu du développemnt
-- 🌱 I’m currently learning  le python !
-- 💞️ I’m looking to collaborate avec personne en ce moment puisque j'apprends toujours !
-- 📫 How to reach me  mon discord Akrooz#5519 
+- 👀 I’m interested in  IT I'm new to development
+- 🌱 I’m currently learning the python !
+- 💞️ I’m looking to collaborate with no one at the moment since I'm still learning!
+- 📫 How to reach me my  discord Akrooz#5519 
 
 <!---
 --->
